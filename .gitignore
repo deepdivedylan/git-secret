@@ -1,3 +1,6 @@
+/.idea
+.DS_Store
+
 .gitsecret/keys/random_seed
 .gitsecret/secrets/fuzzy.json
 .gitsecret/secrets/fuzzy.sh
